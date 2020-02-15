@@ -49,4 +49,4 @@ If we click the link (Hyperlinks are good REST-ful design, btw), we see the Scho
 
 9. http://127.0.0.1:8000/students/
 
-
+![Screenshot from 2020-02-16 01-50-04](https://user-images.githubusercontent.com/39709733/74594730-9c24e400-505f-11ea-84d3-c076f920bcf7.png)
