@@ -8,17 +8,16 @@ download on your local machine
 
 install requirements
 
+      pip3 install django
 
-''' pip3 install django
 
-
-''' pip3 install djangorestframework
+      pip3 install djangorestframework
 
 
 to dir where manage.py is
 
 
-''' cd school-restapi/myschool
+       cd school-restapi/myschool
 
 
 
@@ -27,17 +26,17 @@ to dir where manage.py is
 
 make migrations
 
-''' python3 manage.py makemigrations
+       python3 manage.py makemigrations
 
 
-''' python3 manage.py migrate
+       python3 manage.py migrate
 
 
 
 And Start up the Django server
 
 
-''' python manage.py runserver
+       python manage.py runserver
 
 
 8. goto 
